@@ -24,3 +24,6 @@ The classes **benefit-lead**, **benefit-brand**, and **benefit-cost** were chang
 The classes **search-engine-optimization**, **online-reputation-management**, and **social-media-marketing** have been change to **search-online-social**.  The corresponding CSS selectors were changed to **search-online-social** and combined into one rule. 
 
 The id **search-engine-optimization** was added to thie first section in main.  This repaired the broken link in navigation. 
+
+
+[Link to deployed site](https://heath-bennett.github.io/Horiseon_Refactor/)
